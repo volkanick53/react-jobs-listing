@@ -1,6 +1,6 @@
 # React Jobs Project
 
-Simple job listing app to understand fundamentals of react. For CSS i used tailwind.
+This project is a straightforward job listing application built to help understand the fundamentals of React. Utilizing Tailwind CSS for styling, the app features dynamic job listings and responsive design. 
 <img src="public/screen.png" />
 
 ## Usage
